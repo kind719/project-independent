@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Project Independent.exe
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Project Independent.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Project Independent.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Project Independent.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Project Independent.dll
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\Project Independent.pdb
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Project Independent.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Project Independent.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Project Independent.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Project Independent.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Project Independent.dll
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Project Independent.pdb
+C:\Users\Administrator\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\Project Independent.genruntimeconfig.cache
